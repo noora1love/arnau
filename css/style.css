@@ -3068,6 +3068,10 @@ input[type="button"].btn-block {
   .topbar{
     display: none;
   }
+  #btn-i{
+    display:none;
+  }
+  
 }
 @media (min-width: 768px) {
   .dropdown-menu-md-left {
